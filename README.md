@@ -38,7 +38,7 @@ SOFTWARE.
 society.
 
 ## Working
-
+![g1](https://github.com/Sameep2808/Posturainer/blob/main/Video/ezgif.com-gif-maker.gif)
 - The FRDM-K64F consists of an inbuilt Accelerometer and Gyroscope that is used to measure both initial reference and the corresponding changes when in use.
 - When Posturainer is in calibration mode, the reference values are recorded by the FRDM-controller.
 - Whenever there is a change in the posture beyond a certain level, the device starts vibrating. These warnings can also be controlled over time and frequency. They can also be programmed in a smart sense so as to notify the direction of slouching as well. A simple 5V battery source is used for the same.
